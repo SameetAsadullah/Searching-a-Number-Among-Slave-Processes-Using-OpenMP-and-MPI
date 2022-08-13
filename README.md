@@ -14,7 +14,7 @@ Program written in `C++ language` to search a number from an array after distrib
     mpiexec -n 3 -f machinefile ./Source
     ```
     
-### Working Screenshot
+### Working Screenshots
 <div align="center">
   <img src = "https://github.com/SameetAsadullah/Searching-a-Number-Among-Slave-Processes-Using-OpenMP-and-MPI/blob/main/extras/working-ss-1.png" alt = "" width="700px"/>
 </div>
